@@ -22,7 +22,7 @@ const Footer = () => {
             <div className="flex items-center gap-3 mb-4">
               <img src={universityLogo} alt="University Logo" className="h-12 w-12" />
               <div>
-                <h3 className="font-bold text-lg">EXCELLENCE UNIVERSITY</h3>
+                <h3 className="font-bold text-lg">DAYANANDA SAGAR UNIVERSITY</h3>
                 <p className="text-sm opacity-80">Empowering Future Leaders</p>
               </div>
             </div>
@@ -109,7 +109,7 @@ const Footer = () => {
       <div className="border-t border-background/20">
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm opacity-80">
-            <p>© 2025 Excellence University. All Rights Reserved.</p>
+            <p>© 2025 Dayananda Sagar University. All Rights Reserved.</p>
             <div className="flex gap-6">
               <a href="#" className="hover:text-secondary transition-colors">Privacy Policy</a>
               <a href="#" className="hover:text-secondary transition-colors">Terms & Conditions</a>
