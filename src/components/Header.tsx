@@ -54,7 +54,7 @@ const Header = () => {
           <a href="/" className="flex items-center gap-3">
             <img src={universityLogo} alt="University Logo" className="h-14 w-14" />
             <div className="hidden md:block">
-              <h1 className="text-xl font-bold text-primary">EXCELLENCE UNIVERSITY</h1>
+              <h1 className="text-xl font-bold text-primary">DAYANANDA SAGAR UNIVERSITY</h1>
               <p className="text-xs text-muted-foreground">Empowering Future Leaders</p>
             </div>
           </a>
