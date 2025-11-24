@@ -46,6 +46,15 @@ All colors MUST be HSL.
     --card-shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1);
     
     --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    
+    --program-engineering: 217 91% 60%;
+    --program-computer: 262 83% 58%;
+    --program-commerce: 142 71% 45%;
+    --program-science: 24 95% 53%;
+    --program-health: 0 84% 60%;
+    --program-design: 330 81% 60%;
+    --program-executive: 239 84% 67%;
+    --program-law: 189 94% 43%;
 
     --sidebar-background: 0 0% 98%;
 
@@ -88,6 +97,15 @@ All colors MUST be HSL.
 
     --accent: 220 100% 50%;
     --accent-foreground: 0 0% 100%;
+    
+    --program-engineering: 217 91% 60%;
+    --program-computer: 262 83% 58%;
+    --program-commerce: 142 71% 45%;
+    --program-science: 24 95% 53%;
+    --program-health: 0 84% 60%;
+    --program-design: 330 81% 60%;
+    --program-executive: 239 84% 67%;
+    --program-law: 189 94% 43%;
 
     --destructive: 0 62.8% 30.6%;
     --destructive-foreground: 210 40% 98%;
