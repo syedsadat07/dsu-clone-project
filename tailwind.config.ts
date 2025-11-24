@@ -41,6 +41,16 @@ export default {
           DEFAULT: "hsl(var(--accent))",
           foreground: "hsl(var(--accent-foreground))",
         },
+        program: {
+          engineering: "hsl(var(--program-engineering))",
+          computer: "hsl(var(--program-computer))",
+          commerce: "hsl(var(--program-commerce))",
+          science: "hsl(var(--program-science))",
+          health: "hsl(var(--program-health))",
+          design: "hsl(var(--program-design))",
+          executive: "hsl(var(--program-executive))",
+          law: "hsl(var(--program-law))",
+        },
         popover: {
           DEFAULT: "hsl(var(--popover))",
           foreground: "hsl(var(--popover-foreground))",
